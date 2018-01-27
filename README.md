@@ -1,6 +1,6 @@
 Altair Core integration/staging repository
 =====================================
- [![GitHub version](https://badge.fury.io/gh/Altair-Project%2FAltair.svg)](https://badge.fury.io/gh/Altair-Project%2FAltair)
+ [![GitHub version](https://badge.fury.io/gh/AltairCoin%2FCore.svg)](https://badge.fury.io/gh/AltairCoin%2FCore.svg)
 
 Altair is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
 - Anonymized transactions using coin mixing technology, we call it _Obfuscation_.
